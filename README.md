@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Rasel Howlader</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A900&width=435&lines=Owner+of+ARN+TECH;Founder+of+ThemeIM;Founder+%26+System+Admin+of+ARN+HOST" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=02A900&center=true&vCenter=true&width=435&lines=Owner+of+ARN+TECH;Founder+of+ThemeIM;Founder+%26+System+Admin+of+ARN+HOST" alt="Typing SVG" /></a>
 
   <p><strong>Leading the way in DevOps and Product Manager.</strong></p>
 
@@ -57,8 +57,8 @@
     </tr>
     <tr>
       <td align="center">📦 <b>ARN HOST</b></td>
-      <td align="center">🛡️ <b>Envato Themes</b></td>
-      <td align="center">🎨 <b>Shopify Themes</b></td>
+      <td align="center">🛡️ <b>WordPress</b></td>
+      <td align="center">🎨 <b>Shopify</b></td>
     </tr>
     <tr>
       <td align="center">📸 <b>Asterisk</b></td>
@@ -74,24 +74,17 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="./profile-stats.svg" alt="Stats" />
-  <!--img height="165" src="./profile-langs.svg" alt="Langs" /-->
-</div>
-
-<div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=MickLesk&theme=tokyonight&fire=7c4dff" alt="Streak" />
+  <img height="150" src="https://streak-stats.demolab.com?user=raselhowlader&theme=tokyonight&fire=7c4dff" alt="Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MickLesk&color=7c4dff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=raselhowlader&color=7c4dff&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
 </div>
 
 
-### 📌 Quick Links & Open Source Favorites
-- [ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management.
+
 
 
 
