@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Rasel Howlader</h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Owner+of+ARN TECH;Founder+of+community-scripts;Continuing+the+legacy+of+tteck&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Owner+of+ARN TECH;Founder+of+ThemeIM;Continuing+the+legacy+of+Server Administrator&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02A900&width=435&lines=Owner+of+ARN+TECH;Founder+of+ThemeIM;Founder+%26+System+Admin+of+ARN+HOST" alt="Typing SVG" /></a>
 
   <p><strong>Leading the way in DevOps and Product Manager.</strong></p>
 
