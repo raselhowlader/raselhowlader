@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Rasel Howlader</h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Maintainer+of+Proxmox+Helper+Scripts;Founder+of+community-scripts;Continuing+the+legacy+of+tteck&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Owner+of+ARN TECH;Founder+of+community-scripts;Continuing+the+legacy+of+tteck&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com/?lines=Owner+of+ARN TECH;Founder+of+ThemeIM;Continuing+the+legacy+of+Server Administrator&center=true&width=500&height=45&color=7c4dff" alt="Typing SVG" />
 
   <p><strong>Leading the way in DevOps and Product Manager.</strong></p>
