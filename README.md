@@ -4,7 +4,7 @@
 
   <p><strong>Leading the way in DevOps and Product Manager.</strong></p>
 
-  <a href="https://ko-fi.com/community_scripts">
+  <a href="https://apps.shopify.com/partners/arntech">
     <img src="https://img.shields.io/badge/Install_the_app-ThemeIM-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Install Shopify App" />
   </a>
 </div>
@@ -51,19 +51,19 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="33.3%" align="center">🏠 <b>Speed Cart</b></td>
-      <td width="33.3%" align="center">⚡ <b>Charge UP</b></td>
-      <td width="33.3%" align="center">🖥️ <b>Assurify</b></td>
+      <td width="33.3%" align="center">🛒 <b>Speed Cart Drawer Upsell</b></td>
+      <td width="33.3%" align="center">💵 <b>Charge UP Extra Fee</b></td>
+      <td width="33.3%" align="center">🛡️ <b>Assurify Shipping Protection</b></td>
     </tr>
     <tr>
-      <td align="center">📦 <b>ARN HOST</b></td>
-      <td align="center">🛡️ <b>WordPress</b></td>
-      <td align="center">🎨 <b>Shopify</b></td>
+      <td align="center">🌐 <b>ARN HOST</b></td>
+      <td align="center">Ⓜ️ <b>WordPress</b></td>
+      <td align="center">🛍️ <b>Shopify</b></td>
     </tr>
     <tr>
-      <td align="center">📸 <b>Asterisk</b></td>
-      <td align="center">🍴 <b>FreeSWITCH</b></td>
-      <td align="center">🎵 <b>SIP Server</b></td>
+      <td align="center">✳️ <b>Asterisk</b></td>
+      <td align="center">🎛️ <b>FreeSWITCH</b></td>
+      <td align="center">☎️ <b>SIP Server</b></td>
     </tr>
   </table>
 </div>
